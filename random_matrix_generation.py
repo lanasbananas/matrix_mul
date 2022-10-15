@@ -18,3 +18,9 @@ generation('D:\\2_10.txt', 10, 10)
 
 generation('D:\\1_100.txt', 100, 100)
 generation('D:\\2_100.txt', 100, 100)
+
+generation('D:\\1_500.txt', 500, 500)
+generation('D:\\2_500.txt', 500, 500)
+
+generation('D:\\1_1000.txt', 1000, 1000)
+generation('D:\\2_1000.txt', 1000, 1000)
