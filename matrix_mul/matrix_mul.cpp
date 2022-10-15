@@ -84,6 +84,7 @@ int main()
 	mul("D:\\1_3.txt", "D:\\2_3.txt", "D:\\res_3.txt", 3, 3);
 	mul("D:\\1_10.txt", "D:\\2_10.txt", "D:\\res_10.txt", 10, 10);
 	mul("D:\\1_100.txt", "D:\\2_100.txt", "D:\\res_100.txt", 100, 100);
-
+	mul("D:\\1_500.txt", "D:\\2_500.txt", "D:\\res_500.txt", 500, 500);
+	mul("D:\\1_1000.txt", "D:\\2_1000.txt", "D:\\res_1000.txt", 1000, 1000);
 	return 0;
 }
