@@ -23,3 +23,5 @@ def verification(path1, path2, path3):
 verification("D:\\1_3.txt", "D:\\2_3.txt", "D:\\res_3.txt")
 verification("D:\\1_10.txt", "D:\\2_10.txt", "D:\\res_10.txt")
 verification("D:\\1_100.txt", "D:\\2_100.txt", "D:\\res_100.txt")
+verification("D:\\1_500.txt", "D:\\2_500.txt", "D:\\res_500.txt")
+verification("D:\\1_1000.txt", "D:\\2_1000.txt", "D:\\res_1000.txt")
